@@ -3,7 +3,7 @@ SUBMISSION 2: submission_candidate_5seed_bagged.csv
 ===============================================================================
 
 DESCRIPTION:
-  5-Seed Bagged Ensemble. Same 7-component stacking pipeline as Submission 1,
+  5-Seed Bagged Ensemble. Same 7-component stacking pipeline ,
   but trained with 5 different random seeds and predictions averaged.
   Seeds: 42, 123, 2026, 3407, 7777
 
